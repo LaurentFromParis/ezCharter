@@ -1,2 +1,0 @@
-# ezCharter
-Created with CodeSandbox

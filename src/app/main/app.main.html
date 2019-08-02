@@ -1,0 +1,7 @@
+<mainHeader></mainHeader>
+<topMenu></topMenu>
+<ul class="">
+	<li *ngFor="let chart of charts; let i = index" class="row">
+		<appChart [source]="chart"></appChart>
+	</li>
+</ul>
